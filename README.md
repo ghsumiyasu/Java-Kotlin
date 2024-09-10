@@ -6,6 +6,6 @@ Vamos estudar esta ferramenta para desenvolvimento de aplicativos!
 
 アプリケーション開発のためのこのツールを勉強しましょう
 
-## [Introdução - UIKit](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-br-pt.md)
+## [Introdução - Java](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-br-pt.md)
 
-## [はじめに - UIKit](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-jp.md)
+## [はじめに - じゃヴぁ](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-jp.md)
