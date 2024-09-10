@@ -4,7 +4,7 @@
 
 
 <div align="center">
-絵 01 - GoogleでJavaWebサイトを検索する
+絵 01 - ダウンロードフォルダーにダウンロードされたインストーラー
 </div>
 
 ![](Imagens/Java-Windows-Instalacao-Img01.png)

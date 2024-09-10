@@ -3,7 +3,7 @@
 Instalando o arquivo baixado no site da Oracle
 
 <div align="center">
-Figura 01 - Buscando o Site do Java-JDK no Google
+Figura 01 - Instalador baixado na pasta Downloads
 </div>
 
 ![](Imagens/Java-Windows-Instalacao-Img01.png)
