@@ -21,7 +21,7 @@
 ![](Imagens/Windows-Registro-Modo1-Img03.png)
 
 <div align="center">
-絵 04 - 環境変数をクリックします
+絵 04 - 「環境変数」をクリックします
 </div>
 
 ![](Imagens/Windows-Registro-Modo1-Img04.png)
