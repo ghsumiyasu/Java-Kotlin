@@ -75,13 +75,13 @@
 ![](Imagens/Windows-Java-Home-Modo2-Img12.png)
 
 <div align="center">
-絵 13 - ボックスに「%JAVA_HOME%」と入力します「OK」をクリックします
+絵 13 - ボックスに「%JAVA_HOME%」と入力します
 </div>
 
 ![](Imagens/Windows-Java-Home-Modo2-Img13.png)
 
 <div align="center">
-絵 14 - %JAVA_HOME% の直後に「bin」と入力します
+絵 14 - %JAVA_HOME% の直後に「bin」と入力して「OK」をクリックします
 </div>
 
 ![](Imagens/Windows-Java-Home-Modo2-Img14.png)

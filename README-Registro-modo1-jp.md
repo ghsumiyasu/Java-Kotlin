@@ -3,7 +3,7 @@
 システムレジストリにアクセスする方法
 
 <div align="center">
-絵 01 - Windows を左クリックします
+絵 01 - Windows を右クリックします
 </div>
 
 ![](Imagens/Windows-Registro-Modo1-Img01.png)

@@ -75,13 +75,13 @@ Figura 12 - Clique New
 ![](Imagens/Windows-Java-Home-Modo2-Img12.png)
 
 <div align="center">
-Figura 13 - Digite %JAVA_HOME% na caixa e clique OK
+Figura 13 - Digite %JAVA_HOME% na caixa
 </div>
 
 ![](Imagens/Windows-Java-Home-Modo2-Img13.png)
 
 <div align="center">
-Figura 14 - Digite bin logo apos %JAVA_HOME%
+Figura 14 - Digite bin logo apos %JAVA_HOME% e clique OK
 </div>
 
 ![](Imagens/Windows-Java-Home-Modo2-Img14.png)

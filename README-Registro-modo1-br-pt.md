@@ -3,7 +3,7 @@
 Como acessar o registro do sistema
 
 <div align="center">
-Figura 01 - Clique com o botão esquerdo em Windows
+Figura 01 - Clique com o botão direito em Windows
 </div>
 
 ![](Imagens/Windows-Registro-Modo1-Img01.png)
