@@ -6,4 +6,4 @@ Configurando o Windows para usar o Java
 ## [Instalação](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Instalacao-br-pt.md)
 ## [Path](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Path-br-pt.md)
 ## [Registro](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Registro-br-pt.md)
-## [Home](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-br-pt.md)
+## [Home](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Home-br-pt.md)
