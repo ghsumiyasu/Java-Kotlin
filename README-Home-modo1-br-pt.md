@@ -51,7 +51,7 @@ Figura 08 - Clique com o botão direito a barra
 ![](Imagens/Windows-Java-Home-Modo1-Img08.png)
 
 <div align="center">
-Figura 09 - Clique Pasta
+Figura 09 - Clique Paste
 </div>
 
 ![](Imagens/Windows-Java-Home-Modo1-Img09.png)

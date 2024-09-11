@@ -1,6 +1,6 @@
-# Registro de Sistema
+# Registro do Sistema
 
-Formas de acessar o Registro de Sistema
+Formas de acessar o Registro do Sistema
 
 ## [Modo 1](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Registro-modo1-br-pt.md)
 ## [Modo 2](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Registro-modo2-br-pt.md)
