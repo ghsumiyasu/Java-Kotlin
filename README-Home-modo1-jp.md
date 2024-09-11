@@ -15,13 +15,13 @@
 ![](Imagens/Windows-Java-Home-Modo1-Img02.png)
 
 <div align="center">
-絵 03 - 「編集」をクリックします
+絵 03 - 「Edit」をクリックします
 </div>
 
 ![](Imagens/Windows-Java-Home-Modo1-Img03.png)
 
 <div align="center">
-絵 04 - Oracle 標準リファレンスをクリックします。
+絵 04 - Oracle 標準リファレンスをクリックします
 </div>
 
 ![](Imagens/Windows-Java-Home-Modo1-Img04.png)
@@ -51,7 +51,7 @@
 ![](Imagens/Windows-Java-Home-Modo1-Img08.png)
 
 <div align="center">
-絵 09 - フォルダをクリック
+絵 09 - 「Paste」をクリック
 </div>
 
 ![](Imagens/Windows-Java-Home-Modo1-Img09.png)
