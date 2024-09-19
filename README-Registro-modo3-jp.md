@@ -3,7 +3,7 @@
 システムレジストリにアクセスする方法
 
 <div align="center">
-絵 01 - この PC をダブルクリックします (この PC)
+絵 01 - この PC をダブルクリックします
 </div>
 
 ![](Imagens/Windows-Registro-Modo3-Img01.png)
