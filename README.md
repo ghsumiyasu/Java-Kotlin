@@ -9,3 +9,6 @@ Vamos estudar esta ferramenta para desenvolvimento de aplicativos!
 ## [Introdução - Java](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-br-pt.md)
 
 ## [はじめに - ジャヴァ](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-jp.md)
+
+Atualizado   22-09-2024
+アップデート 2024-09-22
