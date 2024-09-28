@@ -15,7 +15,7 @@
 ![](Imagens/Windows-Java-Home-Sistema-Modo2-Img02.png)
 
 <div align="center">
-絵 03 - 変数名ボックスに「JAVA_HOME」と入力します。
+絵 03 - 変数名ボックスに「JAVA_HOME」と入力します
 </div>
 
 ![](Imagens/Windows-Java-Home-Sistema-Modo2-Img03.png)
@@ -39,7 +39,7 @@
 ![](Imagens/Windows-Java-Home-Sistema-Modo2-Img06.png)
 
 <div align="center">
-絵 07 - パスバーをクリックしてマークします。
+絵 07 - パスバーをクリックしてマークします
 </div>
 
 ![](Imagens/Windows-Java-Home-Sistema-Modo2-Img07.png)
