@@ -1,6 +1,6 @@
-# ジャヴァの基本
+# JDKの基本
 
-プログラミング言語じゃヴぁを設定する
+じゃヴぁとコトリンのJDKを設定する
 
 ## [ダウンロード](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Download-jp.md)
 ## [インストール](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Instalacao-jp.md)

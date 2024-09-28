@@ -1,6 +1,6 @@
-# Preparando o Java
+# Preparando o JDK
 
-Configurando o Windows para usar o Java
+Configurando o Windows para usar o Java e Kotlin
 
 ## [Download](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Download-br-pt.md)
 ## [Instalação](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Instalacao-br-pt.md)
