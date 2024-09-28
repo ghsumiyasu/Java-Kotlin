@@ -1,7 +1,12 @@
-# 変数JAVA_HOME
+# 環境変数 - JAVA_HOME
 
-Javaホームを使用して
+## ユーザー変数
 
-## [モード 1 - JAVA_HOMEなし](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-modo1-jp.md)
-## [モード 2 - JAVA_HOME付き](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-modo2-jp.md)
+## [Modo 1 - Sem JAVA_HOME](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-Usuario-modo1-br-pt.md)
+## [Modo 2 - Com JAVA_HOME](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-Usuario-modo2-br-pt.md)
+
+## システム変数
+
+## [Modo 1 - Sem JAVA_HOME](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-Sistema-modo1-br-pt.md)
+## [Modo 2 - Com JAVA_HOME](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-Sistema-modo2-br-pt.md)
 
