@@ -2,8 +2,8 @@
 
 ## ユーザー変数
 
-## [モード 1 - JAVA_HOMEなし](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-Usuario-modo1-br-pt.md)
-## [モード 2 - JAVA_HOME付き](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-Usuario-modo2-br-pt.md)
+## [モード 1 - JAVA_HOMEなし](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-Usuario-modo1-jp.md)
+## [モード 2 - JAVA_HOME付き](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Home-Usuario-modo2-jp.md)
 
 ## システム変数
 
