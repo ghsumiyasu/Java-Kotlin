@@ -51,14 +51,14 @@
 ![](Imagens/Windows-Java-Home-Usuario-Modo2-Img08.png)
 
 <div align="center">
-絵 09 - Clique New
+絵 09 - 「New」をクリックします
 </div>
 
 ![](Imagens/Windows-Java-Home-Usuario-Modo2-Img09.png)
 
 
 <div align="center">
-絵 10 - Digite %JAVA_HOME%\bin
+絵 10 - %JAVA_HOME%\binと入力して「OK」をクリックします
 </div>
 
 ![](Imagens/Windows-Java-Home-Usuario-Modo2-Img10.png)
@@ -68,9 +68,3 @@
 </div>
 
 ![](Imagens/Windows-Java-Home-Usuario-Modo2-Img11.png)
-
-<div align="center">
-絵 12 - 「OK」をクリックします
-</div>
-
-![](Imagens/Windows-Java-Home-Usuario-Modo2-Img12.png)

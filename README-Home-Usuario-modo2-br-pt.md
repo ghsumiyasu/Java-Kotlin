@@ -58,7 +58,7 @@ Figura 09 - Clique New
 
 
 <div align="center">
-Figura 10 - Digite %JAVA_HOME%\bin
+Figura 10 - Digite %JAVA_HOME%\bin e clique OK
 </div>
 
 ![](Imagens/Windows-Java-Home-Usuario-Modo2-Img10.png)
@@ -68,9 +68,3 @@ Figura 11 - Clique OK
 </div>
 
 ![](Imagens/Windows-Java-Home-Usuario-Modo2-Img11.png)
-
-<div align="center">
-Figura 12 - Clique OK
-</div>
-
-![](Imagens/Windows-Java-Home-Usuario-Modo2-Img12.png)
