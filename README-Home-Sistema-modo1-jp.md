@@ -9,7 +9,7 @@
 ![](Imagens/Windows-Java-Home-Sistema-Modo1-Img01.png)
 
 <div align="center">
-絵 02 - クリックパス
+絵 02 - 「Path」をクリックします
 </div>
 
 ![](Imagens/Windows-Java-Home-Sistema-Modo1-Img02.png)
@@ -63,7 +63,7 @@
 ![](Imagens/Windows-Java-Home-Sistema-Modo1-Img10.png)
 
 <div align="center">
-絵 11 - 「bin」を追加して「OK」をクリックします
+絵 11 - 「\bin」を追加して「OK」をクリックします
 </div>
 
 ![](Imagens/Windows-Java-Home-Sistema-Modo1-Img11.png)
