@@ -1,6 +1,6 @@
-# Registro do sistema do Windows
+# Registro do usuario do Windows
 
-Como acessar o registro do sistema
+Como acessar o registro do usuario
 
 <div align="center">
 Figura 01 - Clique Variaveis de Ambiente
