@@ -1,14 +1,14 @@
-# Linguagem de programação Java
+# Linguagem de programação Java-Kotlin
 
-Vamos estudar esta ferramenta para desenvolvimento de aplicativos!
+Vamos estudar estas ferramentas para desenvolvimento de aplicativos!
 
-# プログラミング言語 ジャヴァ
+# プログラミングジャヴァとコトリン言語
 
 アプリケーション開発のためのこのツールを勉強しましょう
 
-## [Introdução - Java](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-br-pt.md)
+## [Ambiente JDK - Java e Kotlin](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-br-pt.md)
 
-## [はじめに - ジャヴァ](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-jp.md)
+## [JDK環境の構築 - ジャヴァとコトリン言語](https://github.com/ghsumiyasu/Java-Basico/blob/main/README-Java-Android-Introducao-jp.md)
 
 Atualizado   22-09-2024
 アップデート 2024-09-22
