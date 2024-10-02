@@ -2,33 +2,38 @@
 
 JDKのインストールする
 
-
 <div align="center">
-絵 01 - ダウンロードフォルダーにダウンロードされたインストーラー
+絵 01 - 右クリックします
 </div>
 
 ![](Imagens/Java-Windows-Instalacao-Img01.png)
 
 <div align="center">
-絵 02 - 導入するシステムの情報
+絵 02 - 「Install」をクリックします
 </div>
 
 ![](Imagens/Java-Windows-Instalacao-Img02.png)
 
 <div align="center">
-絵 03 - 重要 - パッケージがインストールされる場所
+絵 03 - 導入するシステムの情報
 </div>
 
 ![](Imagens/Java-Windows-Instalacao-Img03.png)
 
 <div align="center">
-絵 04 - インストールの進行状況
+絵 04 - 重要 - パッケージがインストールされる場所
 </div>
 
 ![](Imagens/Java-Windows-Instalacao-Img04.png)
 
 <div align="center">
-Figura 05 - プロセスの完了
+絵 05 - インストールの進行状況
 </div>
 
 ![](Imagens/Java-Windows-Instalacao-Img05.png)
+
+<div align="center">
+Figura 06 - プロセスの完了
+</div>
+
+![](Imagens/Java-Windows-Instalacao-Img06.png)
