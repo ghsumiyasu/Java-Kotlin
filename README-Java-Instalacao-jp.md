@@ -9,7 +9,7 @@ JDKのインストールする
 ![](Imagens/Java-Windows-Instalacao-Img01.png)
 
 <div align="center">
-絵 02 - 「Install」をクリックします
+絵 02 - 「インストール」をクリックします
 </div>
 
 ![](Imagens/Java-Windows-Instalacao-Img02.png)

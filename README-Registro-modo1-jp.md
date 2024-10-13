@@ -1,9 +1,9 @@
-# Windows システム レジストリ
+# ウィンドウズシステム レジストリ
 
 システムレジストリにアクセスする方法
 
 <div align="center">
-絵 01 - Windows を右クリックします
+絵 01 - ウィンドウズを右クリックします
 </div>
 
 ![](Imagens/Windows-Registro-Modo1-Img01.png)

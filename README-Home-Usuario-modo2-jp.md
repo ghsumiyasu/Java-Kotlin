@@ -1,4 +1,4 @@
-# Windowsユーザーレジストリ
+# ウィンドウズユーザーレジストリ
 
 ユーザーレジストリにアクセスする方法
 
@@ -27,7 +27,7 @@
 ![](Imagens/Windows-Java-Home-Usuario-Modo2-Img04.png)
 
 <div align="center">
-絵 05 - jdkが存在するアドレスを貼り付けます
+絵 05 - JDKが存在するアドレスを貼り付けます
 </div>
 
 ![](Imagens/Windows-Java-Home-Usuario-Modo2-Img05.png)
